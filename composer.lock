@@ -539,7 +539,7 @@
                 "laminas/laminas-feed": "^2.12",
                 "masterminds/html5": "^2.1",
                 "pear/archive_tar": "^1.4.12",
-                "php": ">=7.3.0",
+                "php": ">=7.2.0",
                 "psr/log": "^1.0",
                 "stack/builder": "^1.0",
                 "symfony-cmf/routing": "^2.1",
@@ -772,7 +772,7 @@
             },
             "require": {
                 "composer-plugin-api": "^1 || ^2",
-                "php": ">=7.3.0"
+                "php": ">=7.2.0"
             },
             "conflict": {
                 "drupal-composer/drupal-scaffold": "*"
@@ -817,7 +817,7 @@
             },
             "require": {
                 "composer-plugin-api": "^1.1 || ^2",
-                "php": ">=7.3.0"
+                "php": ">=7.2.0"
             },
             "type": "composer-plugin",
             "extra": {
@@ -933,7 +933,7 @@
             },
             "require": {
                 "composer-plugin-api": "^1.1 || ^2",
-                "php": ">=7.3.0"
+                "php": ">=7.2.0"
             },
             "type": "composer-plugin",
             "extra": {
